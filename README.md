@@ -1,2 +1,1 @@
-# stcventures
-STC Ventures landing page
+![STC Ventures](stc-log.png)
